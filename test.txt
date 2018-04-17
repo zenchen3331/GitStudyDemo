@@ -1,1 +1,3 @@
 Hello Git from test!
+
+Hello Git from master!
